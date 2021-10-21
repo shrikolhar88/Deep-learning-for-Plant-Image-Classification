@@ -1,6 +1,6 @@
 **Plant Accession Classification**
 
-In this project, 3 deep learning models namely 
+In this project, 3 deep learning models namely,
 
 1. 3-D CNN 
 
